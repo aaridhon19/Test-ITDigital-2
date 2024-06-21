@@ -1,6 +1,6 @@
-Test IT Digital Level 2#
+#Test IT Digital Level 2
 
-Clone Repository##
+##Clone Repository
 
 Clone Repository to your device
 
@@ -9,7 +9,7 @@ Clone Repository to your device
     cd Test-ITDigital-2
 ```
     
-Installation##
+##Installation
 
 Install with npm
 
@@ -17,7 +17,7 @@ Install with npm
     npm install
 ```
 
-Run##
+##Run
 
 ```bash
     node index
